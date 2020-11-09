@@ -1,0 +1,17 @@
+{
+  "author": "zbryikt",
+  "name": "deploy",
+  "license": "MIT",
+  "description": "deploy script for github gh-pages",
+  "version": "0.0.1",
+  "homepage": "https://github.com/zbryikt/deploy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zbryikt/deploy"
+  },
+  "engines": {
+    "node": ">=10.14.1",
+    "npm": ">=6.4.1"
+  },
+  "bin": "./deploy"
+}
