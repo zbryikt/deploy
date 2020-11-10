@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-if [ $1 ]; then
+if [[ -d "$1" ]]; then
   if [[ -d .git ]]; then
 
     REV=`git describe --always`
