@@ -1,4 +1,4 @@
-# deploy
+# @zbryikt/deploy
 
 deploy static files to github pages.
 

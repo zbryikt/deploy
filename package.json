@@ -1,6 +1,6 @@
 {
   "author": "zbryikt",
-  "name": "deploy",
+  "name": "@zbryikt/deploy",
   "license": "MIT",
   "description": "deploy script for github gh-pages",
   "version": "0.0.1",
