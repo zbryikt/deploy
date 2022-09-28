@@ -3,7 +3,7 @@
   "name": "@zbryikt/deploy",
   "license": "MIT",
   "description": "deploy script for github gh-pages",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "files": [
     "deploy"
   ],
